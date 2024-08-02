@@ -9,14 +9,14 @@ class script(object):
 <blockquote>ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴍᴀɴʏ ғᴇᴀᴛᴜʀᴇs, ᴊᴜsᴛ ᴛᴀᴘ ᴏɴ ғᴇᴀᴛᴜʀᴇs ʙᴜᴛᴛᴏɴ ᴅᴏᴡɴ. I ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇs, ᴡᴇʙ sᴇʀɪᴇs ᴀɴᴅ ᴍᴏʀᴇ✌️</blockquote>
 
 <blockquote>ᴊᴜsᴛ sᴇɴᴅ ᴍᴇ ɴᴀᴍᴇ ᴏғ ᴛʜᴇ ᴍᴏᴠɪᴇ ᴏʀ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ</blockquote>
-☆ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/Ek4mpreetsingh">ᴇᴋᴀᴍᴘʀᴇᴇᴛ sɪɴɢʜ</a></b>"""
+☆ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: <a href="https://t.me/MalsalaAdmin">ᴍᴀʟꜱᴀʟᴀ ᴀᴅᴍɪɴ</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b><blockquote>
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/ek4mpreetsingh'>ᴍᴀʟꜱᴀʟᴀ ᴀᴅᴍɪɴ</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MalsalaAdmin'>ᴍᴀʟꜱᴀʟᴀ ᴀᴅᴍɪɴ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -91,9 +91,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/ek4mpreetsingh>Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/MalsalaAdmin>ᴍᴀʟꜱᴀʟᴀ ᴀᴅᴍɪɴ</a></b>
   
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/wibimovie_requests>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -497,7 +497,7 @@ BOT WORKING PROPERLY"""
 ○ ꜰᴜʟʟ ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ
 ○ ʀᴇǫᴜᴇsᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ</b>
 
-<b>✨ ᴜᴘɪ ɪᴅ -</b> <code>paytoekampreetsingh@fam</code>
+<b>✨ ᴛᴏɴ ᴜꜱᴅᴛ ɪᴅ -</b> <code>UQDjVvLIgvCxS51np-R47vONl_YILslyPuyA3wIPvs2UTLDG</code>
 
 <b>ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ /myplan
 

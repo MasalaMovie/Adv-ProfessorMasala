@@ -16,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b><blockquote>
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/ek4mpreetsingh'>ᴇᴋᴀᴍᴘʀᴇᴇᴛ sɪɴɢʜ</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/ek4mpreetsingh'>ᴍᴀʟꜱᴀʟᴀ ᴀᴅᴍɪɴ</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -58,7 +58,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/galaxy_bots1/3)</code>
+<code>[Button Text](buttonurl:https://t.me/wibimovie)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -208,7 +208,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>☆ғɪʟᴇɴᴀᴍᴇ : @MoviesGalaxy120 <a href="https://t.me/MoviesGalaxy120">{file_name}</a>
+    CAPTION = """<b>☆ғɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/wibimovie">{file_name}</a>
 <b> ☆sɪᴢᴇ: {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -480,10 +480,10 @@ BOT WORKING PROPERLY"""
     PREMIUMBUY_INFO = """
 <b>- ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs - </b>
 
-<i>- 30ʀs - 1 ᴡᴇᴇᴋ
-- 50ʀs - 1 ᴍᴏɴᴛʜs
-- 120ʀs - 3 ᴍᴏɴᴛʜs
-- 220ʀs - 6 ᴍᴏɴᴛʜs</i>
+<i>- 0.3$ - 1 ᴡᴇᴇᴋ
+- 1$ - 1 ᴍᴏɴᴛʜs
+- 1.5$ - 3 ᴍᴏɴᴛʜs
+- 2.5$ - 6 ᴍᴏɴᴛʜs</i>
 
 <b>🎁 ᴘʀᴇᴍɪᴜᴍ ғᴇᴀᴛᴜʀᴇs 🎁
 

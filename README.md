@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/d57d6f83abb6b8d0efb02.jpg](https://telegra.ph/file/377c2c843014c0462b641.jpg)" alt="VJ-Filter-Bot Logo">
+  <img src="https://graph.org/file/b87c307a5ee746230f895.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
   VJ FILTER BOT
